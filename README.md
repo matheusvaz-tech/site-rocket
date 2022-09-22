@@ -6,7 +6,7 @@
 
 > Site utilizando um layout do Figma construído no passado.
 
-[🔗 Clique aqui para acessar o site]()
+[🔗 Clique aqui para acessar o site](https://matheusvaz-dev.github.io/site-rocket)
 
 ## 🛠️ Tecnologias
 
