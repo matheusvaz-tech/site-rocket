@@ -194,3 +194,83 @@ h3 {
 .swiper-pagination {
   border-color: #168342;
 }
+
+.dobra-3 {
+  padding-top: 32px;
+  height: 620px;
+  background-color: #209e52;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.forms {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 48px 80px;
+}
+
+.contact-forms {
+  padding-top: 32px;
+}
+
+input {
+  border: 1px solid rgb(81, 81, 81);
+  height: 40px;
+  width: 472px;
+  border-radius: 8px;
+  margin-top: 8px;
+}
+
+form > div {
+  margin: 16px;
+}
+
+textarea {
+  border: 1px solid rgb(81, 81, 81);
+  border-radius: 8px;
+  resize: none;
+}
+
+label {
+  color: white;
+}
+
+footer {
+  padding-top: 32px;
+  height: auto;
+  background-color: white;
+  margin: 200px 0 40px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 24px;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 120px;
+}
+
+.menu-footer li {
+  margin: 4px 0;
+}
+
+.address p {
+  font-size: 16px;
+}
+
+i {
+  font-size: 32px;
+  margin-right: 4px;
+  color: #168342;
+  transition: 0.4s;
+}
+
+i:hover {
+  transform: scale(1.2);
+}
