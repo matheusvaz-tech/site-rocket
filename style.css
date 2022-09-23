@@ -69,6 +69,24 @@ h1 {
   font-weight: 500;
 }
 
+h1::after {
+  content: "|";
+  margin-left: 4px;
+  opacity: 1;
+  animation: pisca 0.8s infinite;
+}
+
+@keyframes pisca {
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+}
+
 p {
   font-size: 1.12rem;
   font-weight: 300;
