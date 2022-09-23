@@ -16,6 +16,10 @@
 - Swiperjs;
 - Git e Github.
 
+## Próximos passos
+
+> Torná-lo responsivo.
+
 ## 📧 Contato
 
 matheusvaz.ux@gmail.com
