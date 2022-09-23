@@ -73,7 +73,7 @@ h1::after {
   content: "|";
   margin-left: 4px;
   opacity: 1;
-  animation: pisca 0.8s infinite;
+  animation: pisca 0.72s infinite;
 }
 
 @keyframes pisca {
